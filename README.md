@@ -8,7 +8,7 @@ Groups Bars:sirve para agrupar hierros y etiquetarlos.
 Graphical Assistance: contiene las diferentes opciones de dibujo como: bloques, estribos, columnas, etc.
 Schedule: permite realizar el calculo de la planilla de hierros.
 Edit: se puede realizar ediciones dentro de los datos de la planilla.
-About: informción del software y de la compañia en la que trabaja el desarrollador.
+About: información del software y de la compañia en la que trabaja el desarrollador.
 INSTRUCCIONES PARA PODER EJECUTARLO.
 1. Descargar todos los archivos del repositorio.
 2. En AutoCAD ejecutar el siguiente comando: APPLOAD.
