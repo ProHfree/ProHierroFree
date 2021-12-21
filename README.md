@@ -2,7 +2,7 @@
 Software que ayuda en el dibujo de planos estructurales.
 Este software es compatible con la versión 2022 de AutoCAD.
 El idioma del programa es inglés.
-Cuenta con 6 interfaces enumeradas acontinuación.
+Cuenta con 6 interfaces enumeradas a continuación.
 Bars: utilizada para el dibujo de hierros.
 Groups Bars:sirve para agrupar hierros y etiquetarlos.
 Graphical Assistance: contiene las diferentes opciones de dibujo como: bloques, estribos, columnas, etc.
