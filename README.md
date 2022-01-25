@@ -22,44 +22,44 @@ _Cuenta con 6 interfaces enumeradas a continuación._
 
 ### Instalación 🔧
 
-INSTRUCCIONES PARA PODER EJECUTARLO.
-1. Descargar todos los archivos del repositorio.
-2. En AutoCAD ejecutar el siguiente comando: APPLOAD.
-3. Dirigirse se la carpeta que contiene los archivos descargados y cargar aquellos que tienen extensión .lsp
-4. Dentro de la misma interfaz,en la opción cargar al incio, dar clic en contenido y agregar el archivo ph.lsp
-5. Ejecutar el comando CONFIG.
-6. Dirigirse a la pestaña archivos>Ruta de búsqueda de archivo de soporte.
-7. Dar clic en añadir>examinar y seleccionar la carpeta descargada, despues dar clic en aplicar>aceptar.
-8. Finalmente en AutoCAD ejecutar el comando Ph.
-
-
+* Descargar todos los archivos de este repositorio.
+* En AutoCAD abrimos un nuevo dibujo.
+* En la interfaz del nuevo dibujo, se procede a ejecutar el siguiente comando:
 ```
-Da un ejemplo
+APPLOAD
 ```
+* Dirigirse se la carpeta que contiene los archivos descargados y cargar aquellos que tienen extensión .lsp
 
-_Y repite_
-
+* Dentro de la misma interfaz,en la opción cargar al incio, dar clic en contenido y agregar el archivo ph.lsp
+* 
+* Ejecutar el comando 
+ ```
+CONFIG
 ```
-hasta finalizar
+* Dirigirse a la pestaña archivos>Ruta de búsqueda de archivo de soporte.
+* Dar clic en añadir>examinar y seleccionar la carpeta descargada, despues dar clic en aplicar>aceptar.
+* Finalmente en AutoCAD ejecutar el comando 
+ ```
+PH
 ```
+* Finalemente aparecera la interfaz de ProHierro Profesional.
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+
 
 ## Notas 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+Cambios realizados en el software para que fuera compatible con la ultima version de AutoCad.
+* Se cambió el valor por defecto de plinetype de 2 a 0, debido a que, al abrir dibujos antiguos, las polilíneas de éstos no se convierten, ya que POL crea polilíneas con formato antiguo.
+* Se intercambió el idioma de ingles por español renombrando la etiqueta number por número, para que dibujara bien la planilla.
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+* Herramienta AutoCad versión 2022.
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* Plataforma de Github.
 
-## Contribuyendo 🖇️
+* Software “ProHierro Profesional” (Utiliza AutoLisp)
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Wiki 📖
 
