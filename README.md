@@ -108,8 +108,8 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md)
-o revisarlo en la wiki [licencia](https://github.com/ProHfree/ProHierroFree/wiki/ProHierro-Profesional-Free#Licencia)
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](https://github.com/ProHfree/ProHierroFree/blob/main/LICENSE)
+o revisarlo en la wiki [Licencia](https://github.com/ProHfree/ProHierroFree/wiki/ProHierro-Profesional-Free#Licencia)
 
 ## Expresiones de Gratitud 🎁
 
