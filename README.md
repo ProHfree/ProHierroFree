@@ -16,7 +16,7 @@ _Cuenta con 6 interfaces enumeradas a continuación._
 
 ### Pre-requisitos 📋
 
-*Instalar AutoCad (Compatible hasta la version 2022).
+* Instalar AutoCad (Compatible hasta la version 2022).
 * Descargarse todos los archivos de este repositario.
 
 
@@ -28,23 +28,36 @@ _Cuenta con 6 interfaces enumeradas a continuación._
 ```
 APPLOAD
 ```
-* Dirigirse se la carpeta que contiene los archivos descargados y cargar aquellos que tienen extensión .lsp
 
-* Dentro de la misma interfaz,en la opción cargar al incio, dar clic en contenido y agregar el archivo ph.lsp
-* 
+* Dirigirse se la carpeta que contiene los archivos descargados y cargar aquellos que tienen extensión .lsp
+![This is an image](https://github.com/chdavid97/Prohierro-free/blob/master/Fotos%20wiki/Appload.png)
+Como se puede visualizar en la imagen.
+Los archivos son:
+* CAMBIAR.LSP
+* datext.LSP
+* Graficos.LSP
+* LAYER-1.LSP
+* LEER.LSP
+* OBTENER.LSP
+* ph.LSP
+* plancorte.LSP
+* Dentro de la misma interfaz,existe la opción cargar al incio, dar clic en contenido y agregar el archivo ph.lsp
+![This is an image](https://github.com/chdavid97/Prohierro-free/blob/master/Fotos%20wiki/appload2.png)
+(Ya que este archivo contiene todas las funciones del software, y es el que arranca todos los demas archivos.)
 * Ejecutar el comando 
  ```
 CONFIG
 ```
-* Dirigirse a la pestaña archivos>Ruta de búsqueda de archivo de soporte.
+![This is an image](https://github.com/chdavid97/Prohierro-free/blob/master/Fotos%20wiki/configuracion.png)
+* Dirigirse a la pestaña archivos> Ruta de búsqueda de archivo de soporte, Como se observa en la imagen.
 * Dar clic en añadir>examinar y seleccionar la carpeta descargada, despues dar clic en aplicar>aceptar.
-* Finalmente en AutoCAD ejecutar el comando 
+
+* Luego en AutoCAD ejecutar el comando.
  ```
 PH
 ```
 * Finalemente aparecera la interfaz de ProHierro Profesional.
-
-
+![This is an image](https://github.com/chdavid97/Prohierro-free/blob/master/Fotos%20wiki/prohierro.PNG)
 
 ## Notas 📦
 
@@ -70,8 +83,10 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 La primera versión de ProHierro Profesional en Enero 1994
 Luego se opton por una versión por años
 * ProHierro Profesional 2004
+![This is an image](https://github.com/chdavid97/Prohierro-free/blob/master/Fotos%20wiki/ProhierroProfesional2004.PNG)
+
 * ProHierro Profesional 2007
-* ProHierro Profesional 2014
+![This is an image](https://github.com/chdavid97/Prohierro-free/blob/master/Fotos%20wiki/ProHierroProfesional2007.PNG)
 
 ## Autores ✒️
 
