@@ -3,7 +3,7 @@
  
 ## Comenzando 🚀
 
-Este Software ayud en el dibujo de planos estructurales para la comunidad de Ingenierios Civiles.
+Este Software ayuda en el dibujo de planos estructurales para la comunidad de Ingenierios Civiles.
 _Este software es compatible con la versión 2022 de AutoCAD._
 _El idioma del programa es inglés._
 _Cuenta con 6 interfaces enumeradas a continuación._
