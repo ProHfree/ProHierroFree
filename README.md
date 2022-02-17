@@ -20,11 +20,11 @@ _Cuenta con 6 interfaces enumeradas a continuación._
 * Descargarse todos los archivos de este repositario.
 ### Notas
 Tipos de archivos 
-.dcl : Interfaz
-.slb : Imagenes de los iconos. 
-.lsp : Contiene las funciones.
-.bmp : Contiene la imagen de incio.
-.dwg : Plantilla.
+* .dcl : Interfaz
+* .slb : Imagenes de los iconos. 
+* .lsp : Contiene las funciones.
+* .bmp : Contiene la imagen de incio.
+* .dwg : Plantilla.
 
 ### Instalación 🔧
 
