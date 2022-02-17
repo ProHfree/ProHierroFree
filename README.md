@@ -18,7 +18,13 @@ _Cuenta con 6 interfaces enumeradas a continuación._
 
 * Instalar AutoCad (Compatible hasta la version 2022).
 * Descargarse todos los archivos de este repositario.
-### Notas
+
+### Notas 📦
+
+Cambios realizados en el software para que fuera compatible con la ultima version de AutoCad.
+* Se cambió el valor por defecto de plinetype de 2 a 0, debido a que, al abrir dibujos antiguos, las polilíneas de éstos no se convierten, ya que POL crea polilíneas con formato antiguo.
+* Se intercambió el idioma de ingles por español renombrando la etiqueta number por número, para que dibujara bien la planilla.
+
 Tipos de archivos 
 * .dcl : Interfaz
 * .slb : Imagenes de los iconos. 
@@ -68,11 +74,7 @@ PH
 
 ![This is an image](https://github.com/chdavid97/Prohierro-free/blob/master/Fotos%20wiki/prohierro.PNG)
 
-## Notas 📦
 
-Cambios realizados en el software para que fuera compatible con la ultima version de AutoCad.
-* Se cambió el valor por defecto de plinetype de 2 a 0, debido a que, al abrir dibujos antiguos, las polilíneas de éstos no se convierten, ya que POL crea polilíneas con formato antiguo.
-* Se intercambió el idioma de ingles por español renombrando la etiqueta number por número, para que dibujara bien la planilla.
 
 ## Construido con 🛠️
 
