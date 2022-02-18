@@ -1,5 +1,5 @@
 ### ProHierroFree
-# ProHierro Profesional Free
+# ProHierro Free
  
 ## Comenzando 🚀
 
